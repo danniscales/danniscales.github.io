@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lubdanikins.github.io/fr/categories/</loc>
+    <loc>https://danniscales.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lubdanikins.github.io/categories/"
+                href="https://danniscales.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lubdanikins.github.io/fr/categories/"
+                href="https://danniscales.github.io/fr/categories/"
                 />
   </url><url>
-    <loc>https://lubdanikins.github.io/fr/</loc>
+    <loc>https://danniscales.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lubdanikins.github.io/"
+                href="https://danniscales.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lubdanikins.github.io/fr/"
+                href="https://danniscales.github.io/fr/"
                 />
   </url><url>
-    <loc>https://lubdanikins.github.io/fr/series/</loc>
+    <loc>https://danniscales.github.io/fr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lubdanikins.github.io/series/"
+                href="https://danniscales.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lubdanikins.github.io/fr/series/"
+                href="https://danniscales.github.io/fr/series/"
                 />
   </url><url>
-    <loc>https://lubdanikins.github.io/fr/tags/</loc>
+    <loc>https://danniscales.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lubdanikins.github.io/tags/"
+                href="https://danniscales.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lubdanikins.github.io/fr/tags/"
+                href="https://danniscales.github.io/fr/tags/"
                 />
   </url>
 </urlset>

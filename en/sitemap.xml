@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lubdanikins.github.io/blog/</loc>
+    <loc>https://danniscales.github.io/d3/</loc>
     <lastmod>2021-03-07T14:12:48+00:00</lastmod>
   </url><url>
-    <loc>https://lubdanikins.github.io/</loc>
+    <loc>https://danniscales.github.io/</loc>
     <lastmod>2021-03-07T14:12:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lubdanikins.github.io/fr/"
+                href="https://danniscales.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lubdanikins.github.io/"
+                href="https://danniscales.github.io/"
                 />
   </url><url>
-    <loc>https://lubdanikins.github.io/blog/photos/</loc>
+    <loc>https://danniscales.github.io/d3/photos/</loc>
     <lastmod>2021-03-07T14:12:48+00:00</lastmod>
   </url><url>
-    <loc>https://lubdanikins.github.io/content/</loc>
+    <loc>https://danniscales.github.io/content/</loc>
     <lastmod>2021-03-06T21:03:55+00:00</lastmod>
   </url><url>
-    <loc>https://lubdanikins.github.io/tutorials/circlize/</loc>
+    <loc>https://danniscales.github.io/rstats/circlize/</loc>
     <lastmod>2021-03-01T13:36:37+00:00</lastmod>
   </url><url>
-    <loc>https://lubdanikins.github.io/tutorials/</loc>
+    <loc>https://danniscales.github.io/rstats/</loc>
     <lastmod>2021-03-01T13:36:37+00:00</lastmod>
   </url><url>
-    <loc>https://lubdanikins.github.io/errors/</loc>
+    <loc>https://danniscales.github.io/bioinformatics/</loc>
     <lastmod>2021-02-15T10:35:00+00:00</lastmod>
   </url><url>
-    <loc>https://lubdanikins.github.io/errors/prokka/</loc>
+    <loc>https://danniscales.github.io/bioinformatics/prokka/</loc>
     <lastmod>2021-02-15T10:35:00+00:00</lastmod>
   </url><url>
-    <loc>https://lubdanikins.github.io/errors/snippy/</loc>
+    <loc>https://danniscales.github.io/bioinformatics/snippy/</loc>
     <lastmod>2020-02-28T10:34:51+00:00</lastmod>
   </url><url>
-    <loc>https://lubdanikins.github.io/categories/</loc>
+    <loc>https://danniscales.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lubdanikins.github.io/fr/categories/"
+                href="https://danniscales.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lubdanikins.github.io/categories/"
+                href="https://danniscales.github.io/categories/"
                 />
   </url><url>
-    <loc>https://lubdanikins.github.io/series/</loc>
+    <loc>https://danniscales.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lubdanikins.github.io/fr/series/"
+                href="https://danniscales.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lubdanikins.github.io/series/"
+                href="https://danniscales.github.io/series/"
                 />
   </url><url>
-    <loc>https://lubdanikins.github.io/tags/</loc>
+    <loc>https://danniscales.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lubdanikins.github.io/fr/tags/"
+                href="https://danniscales.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lubdanikins.github.io/tags/"
+                href="https://danniscales.github.io/tags/"
                 />
   </url>
 </urlset>

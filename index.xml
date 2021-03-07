@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Danni Scales</title>
-    <link>https://lubdanikins.github.io/</link>
+    <link>https://danniscales.github.io/</link>
     <description>Recent content on Danni Scales</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 07 Mar 2021 14:12:48 +0000</lastBuildDate><atom:link href="https://lubdanikins.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 14:12:48 +0000</lastBuildDate><atom:link href="https://danniscales.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photos</title>
-      <link>https://lubdanikins.github.io/blog/photos/</link>
+      <link>https://danniscales.github.io/d3/photos/</link>
       <pubDate>Sun, 07 Mar 2021 14:12:48 +0000</pubDate>
       
-      <guid>https://lubdanikins.github.io/blog/photos/</guid>
+      <guid>https://danniscales.github.io/d3/photos/</guid>
       <description>hello here are some photos I&amp;rsquo;ve taken recently</description>
     </item>
     
     <item>
       <title>Hi. I&#39;m Danni. Welcome.</title>
-      <link>https://lubdanikins.github.io/content/</link>
+      <link>https://danniscales.github.io/content/</link>
       <pubDate>Sat, 06 Mar 2021 21:03:55 +0000</pubDate>
       
-      <guid>https://lubdanikins.github.io/content/</guid>
+      <guid>https://danniscales.github.io/content/</guid>
       <description>I&amp;rsquo;m a PhD student in Microbiology with an interest in bioinformatics and data visualisation. I started blogging some of the issues I encountered when I started this journey in the hope they save someone else a lot of googling! I&amp;rsquo;m still learning and welcome constructive feedback.
 My interests range from science and data analysis to music festivals, photography and cycling. I also love exploring lands near and far with my rescue dog Seth.</description>
     </item>
     
     <item>
       <title>Circlize</title>
-      <link>https://lubdanikins.github.io/tutorials/circlize/</link>
+      <link>https://danniscales.github.io/rstats/circlize/</link>
       <pubDate>Mon, 01 Mar 2021 13:36:37 +0000</pubDate>
       
-      <guid>https://lubdanikins.github.io/tutorials/circlize/</guid>
+      <guid>https://danniscales.github.io/rstats/circlize/</guid>
       <description>I was heavily inspired to make a tutorial of my own after following this amazing tutorial and seeing the potential of the R package circlise.
 Data I&amp;rsquo;m using
 Packages library(ggplot2) library(circlise) </description>
@@ -40,10 +40,10 @@ Packages library(ggplot2) library(circlise) </description>
     
     <item>
       <title>Prokka</title>
-      <link>https://lubdanikins.github.io/errors/prokka/</link>
+      <link>https://danniscales.github.io/bioinformatics/prokka/</link>
       <pubDate>Mon, 15 Feb 2021 10:35:00 +0000</pubDate>
       
-      <guid>https://lubdanikins.github.io/errors/prokka/</guid>
+      <guid>https://danniscales.github.io/bioinformatics/prokka/</guid>
       <description>I had real issues the first time I tried to install and run Prokka. I googled the error messages but none of the solutions posted online worked for me. In the end there was only one thing which worked so I&amp;rsquo;ve posted it here in the hope it helps someone else!
 Installing using brew First of all I tried installing Prokka using brew:
 brew install brewsci/bio/prokka but I got this error message:</description>
@@ -51,10 +51,10 @@ brew install brewsci/bio/prokka but I got this error message:</description>
     
     <item>
       <title>Snippy</title>
-      <link>https://lubdanikins.github.io/errors/snippy/</link>
+      <link>https://danniscales.github.io/bioinformatics/snippy/</link>
       <pubDate>Fri, 28 Feb 2020 10:34:51 +0000</pubDate>
       
-      <guid>https://lubdanikins.github.io/errors/snippy/</guid>
+      <guid>https://danniscales.github.io/bioinformatics/snippy/</guid>
       <description>I had real issues trying to install and run Snippy the first time
 Installing using brew brew install brewsci/bio/snippy Installing using conda conda install -c conda-forge -c bioconda -c defaults snippy The solution conda environment</description>
     </item>

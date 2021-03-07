@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics on Danni Scales</title>
+    <link>https://danniscales.github.io/bioinformatics/</link>
+    <description>Recent content in Bioinformatics on Danni Scales</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 15 Feb 2021 10:35:00 +0000</lastBuildDate><atom:link href="https://danniscales.github.io/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prokka</title>
+      <link>https://danniscales.github.io/bioinformatics/prokka/</link>
+      <pubDate>Mon, 15 Feb 2021 10:35:00 +0000</pubDate>
+      
+      <guid>https://danniscales.github.io/bioinformatics/prokka/</guid>
+      <description>I had real issues the first time I tried to install and run Prokka. I googled the error messages but none of the solutions posted online worked for me. In the end there was only one thing which worked so I&amp;rsquo;ve posted it here in the hope it helps someone else!
+Installing using brew First of all I tried installing Prokka using brew:
+brew install brewsci/bio/prokka but I got this error message:</description>
+    </item>
+    
+    <item>
+      <title>Snippy</title>
+      <link>https://danniscales.github.io/bioinformatics/snippy/</link>
+      <pubDate>Fri, 28 Feb 2020 10:34:51 +0000</pubDate>
+      
+      <guid>https://danniscales.github.io/bioinformatics/snippy/</guid>
+      <description>I had real issues trying to install and run Snippy the first time
+Installing using brew brew install brewsci/bio/snippy Installing using conda conda install -c conda-forge -c bioconda -c defaults snippy The solution conda environment</description>
+    </item>
+    
+  </channel>
+</rss>
